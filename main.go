@@ -2,6 +2,7 @@ package main
 
 import (
 	_ "github.com/ezirl/mm/routers"
+	"github.com/ezirl/mm/parser"
 	"github.com/astaxie/beego"
 )
 
