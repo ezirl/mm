@@ -3,8 +3,8 @@ package telegram
 import (
 	"errors"
 	"fmt"
-	"github.com/ezirl/massmedia/models"
-	"github.com/ezirl/massmedia/orm"
+	"github.com/ezirl/mm/models"
+	"github.com/ezirl/mm/orm"
 	"math/rand"
 	"net/http"
 	"net/url"

@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/ezirl/massmedia/orm"
+	"github.com/ezirl/mm/orm"
 	"github.com/jinzhu/gorm"
 )
 

@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"github.com/ezirl/massmedia/controllers"
+	"github.com/ezirl/mm/controllers"
 	"github.com/astaxie/beego"
 )
 

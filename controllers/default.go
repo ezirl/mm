@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"github.com/ezirl/massmedia/models"
+	"github.com/ezirl/mm/models"
 	"github.com/astaxie/beego/utils/pagination"
 	"strconv"
 )

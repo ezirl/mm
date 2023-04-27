@@ -2,7 +2,7 @@ package parser
 
 import (
 	"fmt"
-	"github.com/ezirl/massmedia/orm"
+	"github.com/ezirl/mm/orm"
 	"github.com/jinzhu/gorm"
 	"github.com/mmcdole/gofeed"
 	"html"

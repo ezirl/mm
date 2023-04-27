@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/ezirl/massmedia/models"
+	"github.com/ezirl/mm/models"
 	"github.com/astaxie/beego"
 )
 

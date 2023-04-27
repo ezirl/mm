@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "github.com/ezirl/massmedia/routers"
+	_ "github.com/ezirl/mm/routers"
 	"github.com/astaxie/beego"
 )
 
